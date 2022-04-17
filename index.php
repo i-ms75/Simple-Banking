@@ -50,7 +50,7 @@ include 'nav.html';
         }
                 
     </style>
-<title>MusiDumbo Bank</title>
+<title>FinSoft Bank</title>
 </head>
 <body>
 <div class="bg">
