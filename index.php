@@ -58,7 +58,7 @@ include 'nav.html';
         <h1>Bank for all</h1>
         <p class="a">and all your financial needs</p>
         <p class="b">Your very own </p>
-        <p class="c">MusiDumbo Bank</p>
+        <p class="c">FinSys Bank</p>
 
     </div>
 
